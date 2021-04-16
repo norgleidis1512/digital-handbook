@@ -1,6 +1,6 @@
 .slider-title {
   font-family: 'Racing Sans One', cursive;
-  font-size: 150px;
+  font-size: 10vh;
   color: #25C998;/* #4DD625;*/
 }
 
@@ -126,7 +126,7 @@ div.collapse.navbar-collapse {
   justify-content: flex-end;
 }
 
-.text-birepublik {
+.text-macirrss {
   color: white; 
   font-weight: 700;
 }
